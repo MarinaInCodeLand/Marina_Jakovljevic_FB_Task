@@ -1,4 +1,4 @@
-# 🧪 QA Technical Task – Marina Jakovljević.
+# QA Technical Task – Marina Jakovljević.
 
 This repository contains my solution for the QA technical task. It includes automated and manual testing of the [FishingBooker dev](https://qahiring.dev.fishingbooker.com/reports/destination/us/FL/destin) web application.
 
@@ -21,12 +21,12 @@ pytest
 
 - **Tool:** Qase.io  
 - **Format:** Test cases exported as PDF  
-- **Location:** `manual_tests/test-cases-qase.pdf`
+- **Location:** `manual_tests/TestCases_Marina_Jakovljevic.pdf`
 
 
 ## 🐞 3. Bug Reports
 
 - **Reported during:** Exploratory testing  
 - **Tool:** Google Docs → exported as PDF  
-- **Location:** `manual_tests/bug-reports.pdf`
+- **Location:** `manual_tests/bug_report_Marina_Jakovljevic.pdf`
 
