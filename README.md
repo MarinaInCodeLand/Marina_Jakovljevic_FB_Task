@@ -26,7 +26,10 @@ This repository contains my solution for the QA technical task. It includes auto
 - **Location:** `manual_tests/bug_report_Marina_Jakovljevic.pdf`
 
 
-> To run tests:
+
+
+> To run automated tests:
+
 ```bash
 pip install -r requirements.txt
 pytest
