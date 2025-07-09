@@ -1,6 +1,6 @@
 # QA Technical Task - Marina Jakovljević
 
-This repository contains my solution for the QA technical task. It includes automated and manual testing of the [FishingBooker dev](https://qahiring.dev.fishingbooker.com/reports/destination/us/FL/destin) web application.
+This repository contains my solution for the QA technical task. It includes automated and manual testing of the [FishingBooker](https://fishingbooker.com/) dev web application.
 
 ---
 
