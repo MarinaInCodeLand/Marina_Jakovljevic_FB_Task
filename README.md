@@ -11,11 +11,6 @@ This repository contains my solution for the QA technical task. It includes auto
 - Tests cover: Sign up / Login flow, Update profil, etc.
 - Folder: `automation_tests/`
 
-> To run tests:
-```bash
-pip install -r requirements.txt
-pytest
-
 
 ## 📄 2. Manual Test Cases
 
@@ -30,3 +25,8 @@ pytest
 - **Tool:** Google Docs → exported as PDF  
 - **Location:** `manual_tests/bug_report_Marina_Jakovljevic.pdf`
 
+
+> To run tests:
+```bash
+pip install -r requirements.txt
+pytest
